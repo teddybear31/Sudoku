@@ -9,8 +9,13 @@ namespace Sudoku
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World from teddybouziat!");
 
+        }
+
+
+        public void MaMethode()
+        {
+            Console.WriteLine("Ceci est la méthode de NOM_A: Ajout de texte venant de NOM_A");
         }
     }
 }
