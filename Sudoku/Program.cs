@@ -12,6 +12,7 @@ namespace Sudoku
             Console.WriteLine("Modification de Jules");
             Console.WriteLine("Modification de Jules 2");
             Console.WriteLine("Modification de Olivier");
+            Console.WriteLine("Modification d'Ambre");
         }
 
 
