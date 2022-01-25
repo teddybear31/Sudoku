@@ -6,4 +6,9 @@ public class Viatge
 	{
 		Console.WriteLine("Bonjour tout le monde");
 	}
+
+	public void MaMéthode()
+    {
+		Console.WriteLine("Bienvenue dans la méthode d'Olivier.");
+    }
 }
