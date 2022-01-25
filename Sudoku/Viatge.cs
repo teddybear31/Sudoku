@@ -9,6 +9,6 @@ public class Viatge
 
 	public void MaMéthode()
     {
-		Console.WriteLine("Bienvenue dans la méthode d'Olivier.");
+		Console.WriteLine("Bienvenue dans la méthode d'Olivier: Modif de Jules");
     }
 }
