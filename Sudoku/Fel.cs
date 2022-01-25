@@ -4,4 +4,9 @@ public class Fel
     {
 
     }
-}
+
+    public void MethodeDeAmbre()
+    {
+        Console.WriteLine("voilà la méthode de Fel");
+    }
+} 
