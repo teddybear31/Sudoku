@@ -6,6 +6,6 @@ public class Alex
     }
     public void MethodeDeAlex()
     {
-        Console.WriteLine("ceci est la méthode de Alex");
+        Console.WriteLine("ceci est la méthode de Alex: Ajout de texte de venant de Alex ");
     }
 }
