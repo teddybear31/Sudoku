@@ -7,6 +7,6 @@ public class Fel
 
     public void MethodeDeAmbre()
     {
-        Console.WriteLine("voilà la méthode de Fel:voila la méthode de Alex ");
+        Console.WriteLine("voilà la méthode de Fel");
     }
 } 
