@@ -2,6 +2,10 @@ public class Alex
 {
     public Alex()
     {
-        Console.WriteLine("Ceci est la méthode de Alex");
+        
+    }
+    public void MethodeDeAlex()
+    {
+        Console.WriteLine("ceci est la méthode de Alex");
     }
 }
