@@ -8,7 +8,7 @@ namespace Sudoku
     {
         public void ElMethodo()
         {
-            Console.WriteLine("Ce fichier est meilleur que tous les autres, soyez pas jaloux (j'ai oublié le point virgule)");
+            Console.WriteLine("Ce fichier est meilleur que tous les autres, soyez pas jaloux (j'ai oublié le point virgule) prout");
         }
     }
 
