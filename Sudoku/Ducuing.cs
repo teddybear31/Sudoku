@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 public class Ducuing
 {
 	public Ducuing()
